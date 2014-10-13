@@ -1,0 +1,1 @@
+.person-item{padding:8px;border-bottom:#d2d2d2 solid 1px}.person-item .photo{width:20%;float:left}.person-item .photo img{border-radius:100px}.person-item .name{font-weight:400}.person-item .info{width:80%;padding-left:10px;float:right}.person-item .reviews img{width:35px;border-radius:3px}.person-item:after{content:"";display:table;clear:both}
