@@ -1,0 +1,1 @@
+.main-div{overflow:hidden}#food-photo,#food-photo2{position:relative;z-index:2}#food-photo img,#food-photo2 img{width:100%;position:absolute}#food-photo2{z-index:1}.info{padding:7px}.info .name{font-weight:400;font-size:18px}.info .restaurant-name{font-size:17px;font-style:italic;color:#be1313}
